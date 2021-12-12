@@ -23,7 +23,7 @@ struct Content: Decodable {
 }
 
 struct Item: Decodable {
-    let desciption: String
+    let description: String
     let imageName: String
     
     var image: UIImage {

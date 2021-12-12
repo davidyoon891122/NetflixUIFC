@@ -17,6 +17,7 @@
 		AD2B38D32766124500E9A6FE /* Content.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B38D22766124500E9A6FE /* Content.swift */; };
 		AD2B38D52766159100E9A6FE /* ContentCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B38D42766159100E9A6FE /* ContentCollectionViewCell.swift */; };
 		AD2B38D72766174700E9A6FE /* ContentCollectionViewHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B38D62766174700E9A6FE /* ContentCollectionViewHeader.swift */; };
+		AD2B38D92766262300E9A6FE /* ContentCollectionViewRankCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2B38D82766262300E9A6FE /* ContentCollectionViewRankCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		AD2B38D22766124500E9A6FE /* Content.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Content.swift; sourceTree = "<group>"; };
 		AD2B38D42766159100E9A6FE /* ContentCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentCollectionViewCell.swift; sourceTree = "<group>"; };
 		AD2B38D62766174700E9A6FE /* ContentCollectionViewHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentCollectionViewHeader.swift; sourceTree = "<group>"; };
+		AD2B38D82766262300E9A6FE /* ContentCollectionViewRankCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentCollectionViewRankCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				AD2B38D22766124500E9A6FE /* Content.swift */,
 				AD2B38D42766159100E9A6FE /* ContentCollectionViewCell.swift */,
 				AD2B38D62766174700E9A6FE /* ContentCollectionViewHeader.swift */,
+				AD2B38D82766262300E9A6FE /* ContentCollectionViewRankCell.swift */,
 			);
 			path = NetflixStyleSampleApp;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				AD2B38B827660F6200E9A6FE /* AppDelegate.swift in Sources */,
 				AD2B38D72766174700E9A6FE /* ContentCollectionViewHeader.swift in Sources */,
 				AD2B38BA27660F6200E9A6FE /* SceneDelegate.swift in Sources */,
+				AD2B38D92766262300E9A6FE /* ContentCollectionViewRankCell.swift in Sources */,
 				AD2B38CC27660FA500E9A6FE /* HomeViewController.swift in Sources */,
 				AD2B38D32766124500E9A6FE /* Content.swift in Sources */,
 				AD2B38D52766159100E9A6FE /* ContentCollectionViewCell.swift in Sources */,
